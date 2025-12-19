@@ -32,13 +32,3 @@ a {
 a:hover {
     color: #7a1f1f;
 }
-2️⃣ Enlazar el CSS en tu HTML
-En tu index.html (y en todas las páginas):
-
-html
-Copiar código
-<head>
-    <meta charset="UTF-8">
-    <title>M. Muñoz Pérez</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
